@@ -1,0 +1,1 @@
+E:\rust_project\clashtest\rust_dx_study\src\100test\100-exercises-to-learn-rust\target\debug\libfactorial.rlib: E:\rust_project\clashtest\rust_dx_study\src\100test\100-exercises-to-learn-rust\exercises\02_basic_calculator\05_factorial\src\lib.rs

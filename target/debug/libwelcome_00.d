@@ -1,0 +1,1 @@
+E:\rust_project\clashtest\rust_dx_study\src\100test\100-exercises-to-learn-rust\target\debug\libwelcome_00.rlib: E:\rust_project\clashtest\rust_dx_study\src\100test\100-exercises-to-learn-rust\exercises\01_intro\00_welcome\src\lib.rs
